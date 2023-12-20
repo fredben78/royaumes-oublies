@@ -10,3 +10,5 @@ Je mets à disposition l'ensemble des notes, traductions sur lesquelles je suis 
 Le but est de réorganiser l'information pour la rendre plus facilement accessible avec des requêtes dataview notamment.
 Pour le moment je ne vais pas au delà de la chronologie de l'édition ADD2 sur les sources que j'utilise pour alimenter cette base de connaissance.
 
+## Sources Utilisées
+Les sources ne vont pas au delà de la version ADD2 du Lore des Royaumes oubliées.
